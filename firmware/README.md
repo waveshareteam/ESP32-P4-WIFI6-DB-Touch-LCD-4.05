@@ -2,7 +2,7 @@
 
 [English](README.md) | [简体中文](README_ZH.md)
 
-The following firmware is a merged image for the ESP32-C5 Wi-Fi coprocessor, tested on the board and flashed at `0x0`.
+The following firmware is a merged image for the ESP32-C5 Wi-Fi coprocessor, tested on the board and flashed at `0x0`. It uses Espressif's `esp_hosted` component v3.1.0.
 
 | File | Purpose |
 | --- | --- |

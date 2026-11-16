@@ -2,7 +2,7 @@
 
 [English](README.md) | [简体中文](README_ZH.md)
 
-以下固件是 ESP32-C5 Wi-Fi 从机的合并镜像，已在开发板上实测，从 `0x0` 地址烧录。
+以下固件是 ESP32-C5 Wi-Fi 从机的合并镜像，已在开发板上实测，从 `0x0` 地址烧录。该固件使用 Espressif 的 `esp_hosted` 组件 v3.1.0。
 
 | 文件 | 用途 |
 | --- | --- |
